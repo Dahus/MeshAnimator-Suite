@@ -3,6 +3,8 @@
 Smart Texture - This tool generates a material with a shader in your Unity project, which you can then apply to your avatar and animate. It facilitates the real-time transmission of images from your computer to VRChat.
 Video Player - This application allows for the animation of video frames, enabling frame-by-frame video playback and integration into your project.
 
+
+
 Instructions (Smart Texture)
 
 1. Set Image Resolution:
@@ -38,3 +40,6 @@ Check the resolution of your image. It should not exceed the current shader reso
 For example, you can use websites like "pixilart.com" to find images with a resolution of 32x32 pixels.
 - Have additional questions?
 Feel free to contact us on Discord.
+
+Instructions (Video Player)
+
