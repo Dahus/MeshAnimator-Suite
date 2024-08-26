@@ -28,7 +28,7 @@ In the "FX Animator" slot, add your FX Animator.
 Click "Create Animation." After some time, everything will be created automatically, whether it takes a long or short time.
 
 9. Download and Extract Smart Texture:
-Download the "Smart-Texture" from the separate repository and extract the RAR archive to a convenient location.
+Download the "[Smart-Texture](https://github.com/Dahus/Smart-Texture)" from the separate repository and extract the RAR archive to a convenient location.
 10. Run Smart Texture:
 Launch the program by running Smart Texture.exe.
 11. Add Your Image:
