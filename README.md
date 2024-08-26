@@ -27,6 +27,15 @@ In the "FX Animator" slot, add your FX Animator.
 8. Create Animation:
 Click "Create Animation." After some time, everything will be created automatically, whether it takes a long or short time.
 
+9. Download and Extract Smart Texture:
+Download the "Smart-Texture" from the separate repository and extract the RAR archive to a convenient location.
+10. Run Smart Texture:
+Launch the program by running Smart Texture.exe.
+11. Add Your Image:
+Once the program starts, it will create a folder named "FolderForPicture." Move your image into this folder.
+12. Adjust Settings:
+Return to the program, then either press "Enter" to proceed or adjust the image rotation angle and invert it if needed.
+
 ### FAQ (Smart Texture): ###
 **Important!**
 Before generating the texture, it is recommended to make a copy of your FX Animator.
