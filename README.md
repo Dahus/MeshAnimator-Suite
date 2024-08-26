@@ -41,5 +41,5 @@ For example, you can use websites like "pixilart.com" to find images with a reso
 - Have additional questions?
 Feel free to contact us on Discord.
 
-Instructions (Video Player)
+### Instructions (Video Player) ###
 
