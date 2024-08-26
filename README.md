@@ -37,7 +37,9 @@ Once the program starts, it will create a folder named "FolderForPicture." Move 
 Return to the program, then either press "Enter" to proceed or adjust the image rotation angle and invert it if needed.
 
 ### FAQ (Smart Texture): ###
+
 **Important!**
+
 Before generating the texture, it is recommended to make a copy of your FX Animator.
 
 - Why does the program take a long time to create a shader?
@@ -55,7 +57,8 @@ Feel free to contact us on Discord.
 
 ### Instructions (Video Player) ###
 
-**Installation** 
+***Installation*** 
+
 1 Drag the sorted frames of your video into the Texture Array field. You can split the video itself into frames using your program or using sites like:
 - https://www.onlineconverter.com/video-to-jpg
 2. Drag the GameObject that will be the parent for the frames. Also, do not forget to adjust the Scale, because the resolution of the video depends on it.
