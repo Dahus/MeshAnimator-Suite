@@ -3,7 +3,10 @@
 Smart Texture - This tool generates a material with a shader in your Unity project, which you can then apply to your avatar and animate. It facilitates the real-time transmission of images from your computer to VRChat.
 Video Player - This application allows for the animation of video frames, enabling frame-by-frame video playback and integration into your project.
 
+### General installation ### 
 
+1. BreadcrumbsMeshAnimator-Suite.unitypackage to Asset.
+2. Click "Windows" -> "MeshAnimator Suite" -> ...
 
 ### Instructions (Smart Texture) ###
 
@@ -42,4 +45,12 @@ For example, you can use websites like "pixilart.com" to find images with a reso
 Feel free to contact us on Discord.
 
 ### Instructions (Video Player) ###
+
+**Installation** 
+1 Drag the sorted frames of your video into the Texture Array field. You can split the video itself into frames using your program or using sites like:
+- https://www.onlineconverter.com/video-to-jpg
+2. Drag the GameObject that will be the parent for the frames. Also, do not forget to adjust the Scale, because the resolution of the video depends on it.
+3. You can set your own names for the created folder with files, animations and materials.
+4. Specify the duration of your video that you split into frames in step 3.1
+5. Done! You now have 2 animations, ...ON.anim enables animation, OFF.anim disables accordingly.
 
