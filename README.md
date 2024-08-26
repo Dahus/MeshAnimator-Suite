@@ -57,8 +57,6 @@ Feel free to contact us on Discord.
 
 ### Instructions (Video Player) ###
 
-***Installation*** 
-
 1. Drag the sorted frames of your video into the Texture Array field. You can split the video itself into frames using your program or using sites like: https://www.onlineconverter.com/video-to-jpg
 2. Drag the GameObject that will be the parent for the frames. Also, do not forget to adjust the Scale, because the resolution of the video depends on it.
 3. You can set your own names for the created folder with files, animations and materials.
