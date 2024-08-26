@@ -5,7 +5,7 @@ Video Player - This application allows for the animation of video frames, enabli
 
 
 
-Instructions (Smart Texture)
+### Instructions (Smart Texture) ###
 
 1. Set Image Resolution:
 Adjust the "Height" and "Width" settings for the image that will be created.
@@ -24,7 +24,7 @@ In the "FX Animator" slot, add your FX Animator.
 8. Create Animation:
 Click "Create Animation." After some time, everything will be created automatically, whether it takes a long or short time.
 
-###FAQ (Smart Texture):
+### FAQ (Smart Texture): ###
 **Important!**
 Before generating the texture, it is recommended to make a copy of your FX Animator.
 
