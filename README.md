@@ -1,10 +1,10 @@
 # MeshAnimator Suite
 ### Currently, the package includes the following applications:
-Smart Texture - This tool generates a material with a shader in your Unity project, which you can then apply to your avatar and animate. It facilitates the real-time transmission of images from your computer to VRChat.
-Video Player - This application allows for the animation of video frames, enabling frame-by-frame video playback and integration into your project.
+* Smart Texture - This tool generates a material with a shader for your avatar within your Unity project. You can then apply this material to your avatar and animate it. It also facilitates the real-time transmission of images from your computer to VRChat.
+* Video Player - This application allows for the animation of video frames for your avatar, enabling frame-by-frame video playback and integration into your project.
 
-Link to [Smart Texture](https://github.com/Dahus/MeshAnimator-Suite?tab=readme-ov-file#instructions-smart-texture)
-Link to [Video Player](https://github.com/Dahus/MeshAnimator-Suite?tab=readme-ov-file#instructions-video-player)
+* Link to [Smart Texture](https://github.com/Dahus/MeshAnimator-Suite?tab=readme-ov-file#instructions-smart-texture)
+* Link to [Video Player](https://github.com/Dahus/MeshAnimator-Suite?tab=readme-ov-file#instructions-video-player)
 
 ![MeshAnimator Suite Logo 2](https://github.com/user-attachments/assets/b74d7302-640a-4443-a4b5-ea420357ee33)
 
