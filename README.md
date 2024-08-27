@@ -16,6 +16,10 @@
 ### Instructions (Smart Texture) ###
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/o84U2YUSgP4/0.jpg)](https://www.youtube.com/watch?v=o84U2YUSgP4)
+
+**Important!**
+Before generating the texture, it is recommended to make a copy of your FX Animator.
+
 1. Set Image Resolution:
 Adjust the "Height" and "Width" settings for the image that will be created.
 2. Select Folder:
@@ -43,10 +47,6 @@ Once the program starts, it will create a folder named "FolderForPicture." Move 
 Return to the program, then either press "Enter" to proceed or adjust the image rotation angle and invert it if needed.
 
 ### FAQ (Smart Texture): ###
-
-**Important!**
-
-Before generating the texture, it is recommended to make a copy of your FX Animator.
 
 - Why does the program take a long time to create a shader?
 After entering the resolution, check the "Estimated Shader Compilation Time" section, which indicates the approximate time needed for shader compilation.
