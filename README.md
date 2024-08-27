@@ -59,7 +59,7 @@ Check the resolution of your image. It should not exceed the current shader reso
 - Where can I find images?
 For example, you can use websites like "pixilart.com" to find images with a resolution of 32x32 pixels.
 - Have additional questions?
-Feel free to contact us on [Discord](https://discordapp.com/users/290117159806566421/).
+Feel free to contact me on [Discord](https://discordapp.com/users/290117159806566421/).
 
 ### Instructions (Video Player) ###
 
