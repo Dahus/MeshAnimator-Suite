@@ -18,7 +18,9 @@
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/o84U2YUSgP4/0.jpg)](https://www.youtube.com/watch?v=o84U2YUSgP4)
 
 **Important!**
-Before generating the texture, it is recommended to make a copy of your FX Animator.
+```diff
+- Before generating the texture, it is recommended to make a copy of your FX Animator.
+```
 
 1. Set Image Resolution:
 Adjust the "Height" and "Width" settings for the image that will be created.
