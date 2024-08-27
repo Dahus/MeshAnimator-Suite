@@ -15,7 +15,7 @@
 
 ### Instructions (Smart Texture) ###
 
-0. [Guide and demonstration](https://youtu.be/o84U2YUSgP4)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/o84U2YUSgP4/0.jpg)](https://www.youtube.com/watch?v=o84U2YUSgP4)
 1. Set Image Resolution:
 Adjust the "Height" and "Width" settings for the image that will be created.
 2. Select Folder:
@@ -63,7 +63,7 @@ Feel free to contact us on Discord.
 
 ### Instructions (Video Player) ###
 
-0. [Guide and demonstration](https://youtu.be/tgz0XY0NWKM)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tgz0XY0NWKM/0.jpg)](https://www.youtube.com/watch?v=tgz0XY0NWKM)
 1. Drag the sorted frames of your video into the Texture Array field. You can split the video itself into frames using your program or using sites like: https://www.onlineconverter.com/video-to-jpg
 2. Drag the GameObject that will be the parent for the frames. Also, do not forget to adjust the Scale, because the resolution of the video depends on it.
 3. You can set your own names for the created folder with files, animations and materials.
